@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderselete",
+        "uuid": 5559354,
+        "checksum": "9vcpus"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
